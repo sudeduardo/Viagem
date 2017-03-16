@@ -1,0 +1,57 @@
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\bin\Debug\binho.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\bin\Debug\binho.exe
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\bin\Debug\binho.pdb
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\obj\Debug\binho.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\obj\Debug\binho.frmPrincipal.resources
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\obj\Debug\binho.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\obj\Debug\binho.csproj.GenerateResource.Cache
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\obj\Debug\binho.exe
+c:\users\win7\documents\visual studio 2015\Projects\binho\binho\obj\Debug\binho.pdb
+E:\binho\binho\bin\Debug\binho.exe.config
+E:\binho\binho\obj\Debug\binho.exe
+E:\binho\binho\obj\Debug\binho.pdb
+E:\binho\binho\bin\Debug\binho.exe
+E:\binho\binho\bin\Debug\binho.pdb
+E:\binho\binho\obj\Debug\binho.csprojResolveAssemblyReference.cache
+E:\binho\binho\obj\Debug\binho.frmPrincipal.resources
+E:\binho\binho\obj\Debug\binho.Properties.Resources.resources
+E:\binho\binho\obj\Debug\binho.csproj.GenerateResource.Cache
+E:\binho - Cópia\binho\bin\Debug\binho.exe.config
+E:\binho - Cópia\binho\obj\Debug\binho.exe
+E:\binho - Cópia\binho\obj\Debug\binho.pdb
+E:\binho - Cópia\binho\bin\Debug\binho.exe
+E:\binho - Cópia\binho\bin\Debug\binho.pdb
+E:\binho - Cópia\binho\obj\Debug\binho.csprojResolveAssemblyReference.cache
+E:\binho - Cópia\binho\obj\Debug\binho.frmPrincipal.resources
+E:\binho - Cópia\binho\obj\Debug\binho.Properties.Resources.resources
+E:\binho - Cópia\binho\obj\Debug\binho.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\bin\Debug\binho.exe.config
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\obj\Debug\binho.exe
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\obj\Debug\binho.pdb
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\bin\Debug\binho.exe
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\bin\Debug\binho.pdb
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\obj\Debug\binho.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\obj\Debug\binho.frmPrincipal.resources
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\obj\Debug\binho.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\binho - Cópia\binho\obj\Debug\binho.csproj.GenerateResource.Cache
+F:\binho - Cópia\binho\bin\Debug\binho.exe.config
+F:\binho - Cópia\binho\obj\Debug\binho.exe
+F:\binho - Cópia\binho\obj\Debug\binho.pdb
+F:\Viagem\binho\bin\Debug\binho.exe.config
+F:\Viagem\binho\obj\Debug\binho.exe
+F:\Viagem\binho\obj\Debug\binho.pdb
+F:\Viagem\binho\bin\Debug\binho.exe
+F:\Viagem\binho\bin\Debug\binho.pdb
+F:\Viagem\binho\obj\Debug\binho.csprojResolveAssemblyReference.cache
+F:\Viagem\binho\obj\Debug\binho.frmPrincipal.resources
+F:\Viagem\binho\obj\Debug\binho.Properties.Resources.resources
+F:\Viagem\binho\obj\Debug\binho.csproj.GenerateResource.Cache
+G:\Viagem\binho\bin\Debug\binho.exe.config
+G:\Viagem\binho\obj\Debug\binho.exe
+G:\Viagem\binho\obj\Debug\binho.pdb
+G:\Viagem\binho\bin\Debug\binho.exe
+G:\Viagem\binho\bin\Debug\binho.pdb
+G:\Viagem\binho\obj\Debug\binho.csprojResolveAssemblyReference.cache
+G:\Viagem\binho\obj\Debug\binho.frmPrincipal.resources
+G:\Viagem\binho\obj\Debug\binho.Properties.Resources.resources
+G:\Viagem\binho\obj\Debug\binho.csproj.GenerateResource.Cache
